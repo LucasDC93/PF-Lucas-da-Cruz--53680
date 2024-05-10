@@ -1,6 +1,6 @@
 /*nav bar*/
 @import url("https://fonts.googleapis.com/css2?family=Stylish&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Stylish&display=swap");
+
 .container-fluid {
   background-color: rgb(108, 110, 206);
   border-radius: 5px;
@@ -11,9 +11,7 @@
 /*font-family: "Stylish", serif;
   font-weight: 400;
   font-style: normal;*/
-/*font-family: "Stylish", serif;
-  font-weight: 400;
-  font-style: normal;*/
+
 /*nav bar*/
 .container-fluid {
   background-color: rgb(108, 110, 206);
@@ -21,3 +19,22 @@
   box-shadow: rgba(238, 130, 238, 0.433) 5px 5px 5px 5px;
   font-family: "$fuente-serifada";
 }/*# sourceMappingURL=main.css.map */
+
+/*footer*/
+.footer {
+  margin: auto;
+  padding: auto;
+  background-color: rgba(238, 130, 238, 0.433);
+  box-shadow: 2px 2px 2px 2px;
+
+}
+
+.row {
+  width: auto;
+  height: auto;
+  display: flex;
+  margin: auto;
+  padding: auto;
+  align-content: center;
+
+}
