@@ -1,1 +1,66 @@
+/*nav bar*/
+.container-fluid {
+    background-color: rgb(108, 110, 206);
+    border-radius: 5px;
+    box-shadow: rgba(238, 130, 238, 0.433) 5px 5px 5px 5px;
 
+
+
+}
+
+/*carrousel*/
+.carousel-inner {
+    display: grid;
+    width: 1000px;
+    /*height: 1200px;*/
+    margin: auto;
+    padding: auto;
+    box-shadow: rgba(238, 130, 238, 0.433) 5px 5px 5px 5px;
+}
+
+.carousel-caption {
+    font-size: 25px;
+
+}
+
+.img-logo {
+    width: 200px;
+    display: flex;
+    margin: auto;
+
+}
+
+.col {
+    grid-template-columns: "(4, 1fr)";
+    display: grid;
+    margin: 120px;
+    padding: 10px;
+    box-shadow: rgba(238, 130, 238, 0.433) 5px 5px 5px 5px;
+    border-radius: 10px;
+
+}
+
+.titulo-elec {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+/*footer*/
+.footer {
+    margin: auto;
+    padding: auto;
+    background-color: rgba(238, 130, 238, 0.433);
+    box-shadow: 2px 2px 2px 2px;
+
+}
+
+.row {
+    width: auto;
+    height: auto;
+    display: flex;
+    margin: auto;
+    padding: auto;
+    align-content: center;
+
+}
