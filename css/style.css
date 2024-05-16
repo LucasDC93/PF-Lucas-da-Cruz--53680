@@ -60,13 +60,42 @@
 .nav justify-content-center {
     align-items: flex-end;
 }
-.row {
+
+/*.column {
     width: auto;
     height: auto;
-    display: flex;
+    display: grid;
     margin: auto;
     padding: auto;
     align-content: center;
+    grid-template-columns: auto;
+    justify-content: start;
 
+
+
+}*/
+
+.mapa {
+    display: grid;
+    align-items: center;
+    margin: auto;
+    padding: auto
+    ;
 }
+@media (min-width: 30em) and (max-width: 50em) {
+    .carousel-inner {
+        width: 600px;
+        height: auto;
+    }
 
+  } 
+  @media (min-width: 30em) and (max-width: 50em){
+    .col {
+        width: 600px;
+        height: auto;
+        
+    }
+  }
+
+
+      
