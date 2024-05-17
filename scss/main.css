@@ -1,1 +1,9 @@
-@import "sourceMappingURL=main.css.map";
+@import "../css/style.css";
+@import url("https://fonts.googleapis.com/css2?family=Stylish&display=swap");
+/*font-family: "Stylish", serif;
+  font-weight: 400;
+  font-style: normal;*/
+@import url("https://fonts.googleapis.com/css2?family=Stylish&display=swap");
+/*font-family: "Stylish", serif;
+  font-weight: 400;
+  font-style: normal;*//*# sourceMappingURL=main.css.map */
