@@ -97,3 +97,12 @@
         height: auto;
     }
 }
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://img.freepik.com/foto-gratis/gradiente-gris-negro-falta-definicion-llanura-lujo-abstracta-utilizado-como-pared-estudio-fondo-exhibir-sus-productos_1258-52733.jpg');
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-attachment: fixed; /* Hace que la imagen de fondo sea estática */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
